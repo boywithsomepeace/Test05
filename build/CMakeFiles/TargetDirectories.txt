@@ -1,0 +1,2 @@
+C:/Users/Rohan/Documents/Codex/2026-05-29/you-are-a-senior-qt-6/HMI-trial-demo-main/build/CMakeFiles/edit_cache.dir
+C:/Users/Rohan/Documents/Codex/2026-05-29/you-are-a-senior-qt-6/HMI-trial-demo-main/build/CMakeFiles/rebuild_cache.dir
